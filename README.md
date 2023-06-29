@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head><title>Chess game</title>
 <style>
