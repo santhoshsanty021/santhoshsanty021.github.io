@@ -97,12 +97,12 @@
 
 <div id="flex7">
 <div class = "square white" id = "57"><img src = "blackrook.jpg" height = "30" width= "20"></div>
-<div class = "square black" id = "58"><img src = "blackknight.jpg" height = "30" width= "20"></div>
+<div class = "square black" id = "58"><img src = "blackknight.png" height = "30" width= "20"></div>
 <div class = "square white" id = "59"><img src = "blackbishop.jpg" height = "30" width= "20"></div>
 <div class = "square black" id = "60"><img src = "blackqueen.png" height = "30" width= "20"></div>
 <div class = "square white" id = "61"><img src = "blackking.png" height = "30" width= "20"></div>
 <div class = "square black" id = "62"><img src = "blackbishop.jpg" height = "30" width= "20"></div>
-<div class = "square white" id = "63"><img src = "blackknight.jpg" height = "30" width= "20"></div>
+<div class = "square white" id = "63"><img src = "blackknight.png" height = "30" width= "20"></div>
 <div class = "square black" id = "64"><img src = "blackrook.jpg" height = "30" width= "20"></div>
 </div>
 
